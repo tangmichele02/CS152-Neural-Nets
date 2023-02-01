@@ -17,9 +17,15 @@ I also want to examine how different ML models might carry different levels of i
 - Create a technical component where we analyze how tuning models in different ways changes risk outcomes 
 
 ## References 
+These are some of the articles I read/skimmed on the topic:
+
 J. B. Biddle, “On Predicting Recidivism: Epistemic Risk, Tradeoffs, and Values in Machine Learning,” Canadian Journal of Philosophy, vol. 52, no. 3, pp. 321–341, 2022. https://www.cambridge.org/core/journals/canadian-journal-of-philosophy/article/on-predicting-recidivism-epistemic-risk-tradeoffs-and-values-in-machine-learning/7E541FA03E78C3141A65EA99A0CA6E9A
+
 H. Douglas, "Inductive risk and values in science. Philosophy of science", vol. 67, no. 4, pp. 559-579. 2000. https://www.jstor.org/stable/pdf/188707.pdf
+
 K. Karaca, "Values and inductive risk in machine learning modelling: the case of binary classification models," Euro Jnl Phil Sci, vol. 11, no. 102, 2021. https://doi.org/10.1007/s13194-021-00405-1
+
 A. Kasirzadeh, "Reasons, values, stakeholders: A philosophical framework for explainable artificial intelligence," 2021. arXiv preprint arXiv:2103.00752.
+
 E. Sullivan, "Understanding from machine learning models," The British Journal for the Philosophy of Science, 2022. https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axz035
 
