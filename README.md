@@ -1,7 +1,7 @@
 # Project Proposal
 
 ## Project Name: 
-Ethical Investigation: Reducing Inductive Risk in Neural Networks
+**Ethical Investigation: Reducing Inductive Risk in Neural Networks**
 
 ## Project Description
 In my Philosophy of Science class, we read a paper called "Inductive Risk and Values in Science" by Heather Douglas. Her argument was that because scientists take on inductive risk (which she says is the "risk of error"), they must consider non-epistemic values (which she says is "social, ethical, political" values) when examining various parts of the scientific process, including, problem selection and methodological choice (choosing a level of statistical significance and choosing "which kinds of errors one is willing to tolerate"). 
